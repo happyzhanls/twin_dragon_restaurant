@@ -1,2 +1,2 @@
 # twin_dragon_restaurant
-Don't u dare to make GitHub worse, Microsoft
+A public repository for twin dragon restaurant website development. You are very welcome to contact me if you have good suggestions.
